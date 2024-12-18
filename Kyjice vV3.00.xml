@@ -1,0 +1,1721 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <policka pocX="162" pocY="97" autor="Mařík V., Říha M." email="oblasti.stanicar@gmail.com" popis="Stanice na trati 504 (v JŘ 130) v části A. Jedná se o malou stanici s dříve velkým významem pro vozbu uhlí." jmeno="Kyjice">
+    <policko x="0" y="0" tvar="18" stav="NEDEFINOVANO" x1="-1" y1="-1" xText="-1" yText="-1" />
+    <policko x="0" y="17" tvar="11" delka="500" cislo="1" napeti="1" rNakladni="120" />
+    <policko x="0" y="20" tvar="11" delka="500" cislo="2" napeti="1" rNakladni="120" />
+    <policko x="1" y="17" delka="500" cislo="3" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="1" y="20" delka="500" cislo="3" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="2" y="17" delka="500" cislo="7" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="2" y="20" delka="500" cislo="5" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="2" y="76" tvar="20" delka="10" rOsobni="0" rNakladni="0" text="B - Výpravčí, Signalista" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="3" y="17" delka="515" cislo="6" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="3" y="20" delka="515" cislo="6" napeti="1" rNakladni="120" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="4" y="9" tvar="9" typ="ZAKLADNI" smer="180" delka="10" cislo="99" oblast="-1" rOsobni="100" rNakladni="100" text="Třebušice" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="4" y="17" typ="ZOBRAZTEXT" delka="515" cislo="9" napeti="1" rNakladni="120" xText="5" yText="11" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="4" y="20" typ="ZOBRAZTEXT" delka="515" cislo="9" napeti="1" rNakladni="120" xText="5" yText="26" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="5" y="14" tvar="16" smer="180" delka="20" cislo="99" napeti="1" rNakladni="120" x1="5" y1="17" xText="5" yText="17" text="1TK Kyjice-Třebušice" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="5" y="17" tvar="4" stav="CERVENA" delka="0" cislo="7" napeti="1" rNakladni="120" x1="23" y1="93" xText="23" yText="93" text="1L" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="5" y="20" tvar="4" stav="CERVENA" delka="0" cislo="5" napeti="1" rNakladni="120" x1="23" y1="96" xText="23" yText="96" text="2L" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="5" y="23" tvar="16" smer="180" delka="20" napeti="1" rNakladni="120" x1="5" y1="20" xText="5" yText="20" text="2TK Kyjice-Třebušice" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="6" y="17" tvar="10" typ="OZNACNIK" smer="180" delka="0" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="6" y="20" tvar="10" typ="OZNACNIK" smer="180" delka="0" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="7" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="7" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="8" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="8" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="9" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="9" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="10" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="10" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="11" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="11" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="12" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="12" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="13" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="13" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="14" y="17" cislo="101" napeti="1" rNakladni="120" />
+    <policko x="14" y="20" cislo="201" napeti="1" rNakladni="120" />
+    <policko x="15" y="17" tvar="10" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se2" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="15" y="20" tvar="10" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se4" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="16" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="16" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="17" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="17" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="18" y="17" tvar="3" typ="ROVNE" stav="ROVNA" delka="10" cislo="-1" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="20" y1="20" text="v3/7" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="18" y="18" smer="135" delka="25" cislo="-1" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="18" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="19" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="19" y="18" smer="315" delka="25" cislo="-1" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="19" y="19" smer="135" delka="25" cislo="-2" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="19" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="20" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="20" y="19" smer="315" delka="25" cislo="-2" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="20" y="20" tvar="3" typ="ROVNE" smer="180" stav="ROVNA" delka="10" cislo="-2" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="18" y1="17" text="v3/7" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="21" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="21" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="22" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="22" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="23" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="23" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="23" y="89" tvar="16" typ="NEZOBRAZOVAT" delka="10" cislo="99" oblast="-2" napeti="1" rNakladni="120" x1="23" y1="93" xText="23" yText="93" text="1TK Kyjice-Třebušice" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16744448" />
+    <policko x="23" y="93" tvar="4" typ="VSTUPVYSTUP" stav="CERVENA" delka="0" cislo="99" oblast="-3" napeti="1" x1="5" y1="17" xText="39" yText="102" text="TB1" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-23296" celejmeno="Třebušice" smerprij="Třebušice" smerodj="Třebušice" mult="5" />
+    <policko x="23" y="96" tvar="4" typ="VSTUPVYSTUP" stav="CERVENA" delka="0" cislo="99" oblast="-3" napeti="1" x1="5" y1="20" xText="28" yText="100" text="TB2" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-23296" celejmeno="Třebušice" smerprij="Třebušice" smerodj="Třebušice" mult="5" />
+    <policko x="24" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="24" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="24" y="93" typ="ZOBRAZTEXT" delka="10" oblast="1" napeti="1" rNakladni="120" xText="5" yText="11" />
+    <policko x="24" y="96" typ="ZOBRAZTEXT" delka="10" oblast="1" napeti="1" rNakladni="120" xText="5" yText="26" />
+    <policko x="25" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="25" y="19" smer="225" delka="25" cislo="-2" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="25" y="20" tvar="2" typ="ROVNE" stav="ROVNA" delka="20" cislo="-2" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="27" y1="17" text="v8/9" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="25" y="93" tvar="11" delka="500" cislo="1" napeti="1" rNakladni="120" />
+    <policko x="25" y="96" tvar="11" delka="500" cislo="2" napeti="1" rNakladni="120" />
+    <policko x="26" y="17" delka="160" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="26" y="18" smer="225" delka="25" cislo="-1" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="26" y="19" smer="45" delka="25" cislo="-2" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="26" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="27" y="17" tvar="2" typ="ROVNE" smer="180" stav="ROVNA" delka="20" cislo="-1" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="25" y1="20" text="v8/9" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="27" y="18" smer="45" delka="25" cislo="-1" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="27" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="28" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="28" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="29" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="29" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="30" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="30" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="30" y="26" tvar="8" smer="180" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="30" y="96" tvar="16" typ="NEZOBRAZOVAT" delka="10" cislo="99" oblast="-2" napeti="1" rNakladni="120" x1="23" y1="96" xText="23" yText="96" text="2TK Kyjice-Třebušice" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16744448" />
+    <policko x="31" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="31" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="31" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="32" y="17" delka="10" cislo="-1" napeti="1" rNakladni="120" />
+    <policko x="32" y="20" delka="10" cislo="-2" napeti="1" rNakladni="120" />
+    <policko x="32" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="33" y="17" tvar="10" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se6" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="33" y="20" tvar="10" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se5" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="33" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="34" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="34" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="34" y="26" typ="ZOBRAZCISLOKOLEJE" delka="10" cislo="20" rNakladni="120" text="6a/MK" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="35" y="16" smer="225" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="35" y="17" tvar="2" typ="ROVNE" stav="ROVNA" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="35" y="20" tvar="3" typ="ROVNE" stav="ROVNA" delka="10" cislo="-102" napeti="1" rNakladni="120" text="v11" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="35" y="21" smer="135" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="35" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="36" y="15" smer="225" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="36" y="16" smer="45" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="36" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="36" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="36" y="21" smer="315" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="36" y="22" smer="135" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="36" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="37" y="14" smer="225" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="37" y="15" smer="45" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="37" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="37" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="37" y="22" smer="315" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="37" y="23" smer="135" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="37" y="26" delka="10" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="38" y="14" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="38" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="38" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="38" y="23" tvar="3" typ="ROVNE" stav="ROVNA" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" text="v13/15" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="38" y="24" smer="135" delka="10" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="38" y="26" tvar="10" delka="0" cislo="20" rOsobni="40" rNakladni="40" text="Se7" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="39" y="14" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="39" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="39" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="39" y="23" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="39" y="24" smer="315" delka="10" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="39" y="25" smer="135" delka="10" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="39" y="26" delka="20" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="40" y="14" delka="10" cislo="-3" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="40" y="17" delka="10" cislo="-101" napeti="1" rNakladni="120" />
+    <policko x="40" y="20" delka="10" cislo="-102" napeti="1" rNakladni="120" />
+    <policko x="40" y="23" delka="10" cislo="-4" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="40" y="25" smer="315" delka="10" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="40" y="26" tvar="3" typ="ROVNE" smer="180" stav="ROVNA" delka="53" cislo="-6" rOsobni="40" rNakladni="40" text="v13/15" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="41" y="14" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="40" rNakladni="40" text="S3" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="41" y="17" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rNakladni="120" text="S1" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="41" y="20" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rNakladni="120" text="S2" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="41" y="23" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="40" rNakladni="40" text="S4" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="41" y="26" delka="10" cislo="-6" rOsobni="40" rNakladni="40" />
+    <policko x="42" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="26" tvar="10" smer="180" delka="0" cislo="20" rOsobni="40" rNakladni="40" text="Se9" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="40" tvar="9" typ="ZAKLADNI" delka="20" cislo="1" text="Kyjice" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="42" y="49" tvar="11" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="42" y="52" tvar="11" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="49" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="43" y="52" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="49" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="44" y="52" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="49" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="45" y="52" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="49" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="46" y="52" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="49" typ="ZOBRAZTEXT" delka="192" cislo="23" rOsobni="50" rNakladni="50" xText="45" yText="46" text="/AB" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="47" y="52" typ="ZOBRAZTEXT" delka="192" cislo="26" rOsobni="50" rNakladni="50" xText="45" yText="55" text="/AB" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="48" y="46" tvar="16" smer="180" delka="20" cislo="20" oblast="1" x1="48" y1="49" xText="48" yText="49" text="1TK KY-VR" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-8388480" />
+    <policko x="48" y="49" tvar="4" stav="CERVENA" delka="0" cislo="1" rOsobni="50" rNakladni="50" x1="121" y1="17" xText="121" yText="17" mult="5" />
+    <policko x="48" y="52" tvar="4" stav="CERVENA" delka="0" cislo="1" rOsobni="50" rNakladni="50" x1="121" y1="20" xText="121" yText="20" mult="5" />
+    <policko x="48" y="55" tvar="16" smer="180" delka="20" cislo="20" oblast="1" x1="48" y1="52" xText="48" yText="52" text="2TK KY-VR" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-8388480" />
+    <policko x="49" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="49" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="49" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="49" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="49" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="49" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="49" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="50" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="50" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="50" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="50" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="50" y="26" delka="10" cislo="18" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="50" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="50" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="51" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="26" tvar="3" typ="ROVNE" stav="ROVNA" delka="53" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="27" smer="135" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="51" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="51" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="52" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="26" delka="10" cislo="16" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="27" smer="315" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="28" smer="135" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="52" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="52" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="53" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="26" delka="10" cislo="16" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="28" smer="315" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="29" smer="135" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="53" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="53" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="54" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="26" tvar="3" typ="ROVNE" stav="ROVNA" delka="53" cislo="20" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="27" smer="135" delka="10" cislo="8" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="29" smer="315" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="30" smer="135" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="54" y="44" tvar="9" smer="315" delka="20" cislo="1" text="Odb. Vrskmaň" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="54" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="54" y="52" delka="42" rOsobni="110" rNakladni="110" />
+    <policko x="55" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="27" smer="315" delka="10" cislo="8" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="28" smer="135" delka="10" cislo="8" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="30" smer="315" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="31" smer="135" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="55" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="55" y="51" smer="225" delka="18" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="55" y="52" tvar="2" typ="ROVNE" stav="ROVNA" delka="20" cislo="1" rOsobni="110" rNakladni="110" rDoOdbocky="40" rZOdbocky="40" rZRovne="110" rDoRovne="110" x1="57" y1="49" text="v1/2" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="28" smer="315" delka="10" cislo="8" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="29" smer="135" delka="10" cislo="8" rNakladni="120" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="31" smer="315" delka="10" cislo="14" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="32" smer="135" delka="10" cislo="20" rOsobni="10" rNakladni="10" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="56" y="49" delka="40" rOsobni="110" rNakladni="110" />
+    <policko x="56" y="50" smer="225" delka="18" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="56" y="51" smer="45" delka="18" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="56" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="57" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="32" tvar="3" typ="ROVNE" stav="ROVNA" delka="53" cislo="20" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="33" smer="135" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="49" tvar="2" typ="ROVNE" smer="180" stav="ROVNA" delka="18" cislo="1" rOsobni="110" rNakladni="110" rDoOdbocky="40" rZOdbocky="40" rZRovne="110" rDoRovne="110" x1="55" y1="52" text="v1/2" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="57" y="50" smer="45" delka="18" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="57" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="57" y="76" tvar="9" typ="ZAKLADNI" delka="10" rOsobni="0" rNakladni="0" text="B - Výpravčí, Signalista" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="58" y="14" typ="ZOBRAZTEXT" delka="18" cislo="3" napeti="1" rNakladni="120" text="/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="17" typ="ZOBRAZTEXT" delka="18" cislo="1" napeti="1" rNakladni="120" text="/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="20" typ="ZOBRAZTEXT" delka="18" cislo="2" napeti="1" rNakladni="120" text="/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="23" typ="ZOBRAZTEXT" delka="17" cislo="4" napeti="1" rNakladni="120" text="/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="33" smer="315" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="34" smer="135" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="58" y="49" delka="10" rOsobni="110" rNakladni="110" />
+    <policko x="58" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="59" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="34" smer="315" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="35" smer="135" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="59" y="47" tvar="21" smer="315" delka="20" cislo="1" />
+    <policko x="59" y="49" delka="10" rOsobni="110" rNakladni="110" />
+    <policko x="59" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="60" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="60" y="49" delka="10" rOsobni="110" rNakladni="110" />
+    <policko x="60" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="61" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="49" tvar="3" typ="ROVNE" stav="ROVNA" delka="20" cislo="1" rOsobni="110" rNakladni="110" rDoOdbocky="40" rZOdbocky="40" rZRovne="110" rDoRovne="110" x1="63" y1="52" text="v3/4" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="61" y="50" smer="135" delka="19" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="61" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="62" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="62" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="62" y="50" smer="315" delka="19" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="62" y="51" smer="135" delka="19" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="62" y="52" delka="22" rOsobni="110" rNakladni="110" />
+    <policko x="63" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="26" typ="ZOBRAZCISLOKOLEJE" delka="10" cislo="6" rNakladni="120" text="6/MK" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="29" typ="ZOBRAZCISLOKOLEJE" delka="10" cislo="8" rNakladni="120" text="8/MK" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="32" typ="ZOBRAZCISLOKOLEJE" delka="10" cislo="10" rNakladni="120" text="10/MK" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="35" typ="ZOBRAZCISLOKOLEJE" delka="10" cislo="12" rNakladni="120" text="12/MK" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="63" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="63" y="51" smer="315" delka="19" cislo="1" rOsobni="110" rNakladni="110" />
+    <policko x="63" y="52" tvar="3" typ="ROVNE" smer="180" stav="ROVNA" delka="20" cislo="1" rOsobni="110" rNakladni="110" rDoOdbocky="40" rZOdbocky="40" rZRovne="110" rDoRovne="110" x1="61" y1="49" text="v3/4" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="64" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="64" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="65" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="65" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="65" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="66" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="66" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="66" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="67" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="26" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="29" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="32" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="35" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="67" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="67" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="68" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="26" tvar="8" delka="10" cislo="6" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="29" tvar="8" delka="10" cislo="8" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="32" tvar="8" delka="10" cislo="10" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="35" tvar="8" delka="10" cislo="12" rOsobni="40" rNakladni="40" text="/MK" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="68" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="68" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="69" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="69" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="69" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="69" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="69" y="49" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="69" y="52" delka="38" rOsobni="110" rNakladni="110" />
+    <policko x="70" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="70" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="70" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="70" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="70" y="49" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="1" rOsobni="110" rNakladni="110" x1="161" y1="52" xText="161" yText="52" mult="5" />
+    <policko x="70" y="52" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="1" rOsobni="110" rNakladni="110" x1="161" y1="56" xText="161" yText="56" mult="5" />
+    <policko x="71" y="14" typ="ZOBRAZCISLOKOLEJE" delka="18" cislo="3" napeti="1" rNakladni="120" text="3/KY" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="71" y="17" typ="ZOBRAZCISLOKOLEJE" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="71" y="20" typ="ZOBRAZCISLOKOLEJE" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="71" y="23" typ="ZOBRAZCISLOKOLEJE" delka="17" cislo="4" napeti="1" rNakladni="120" text="4/KY" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="71" y="49" typ="ZOBRAZTEXT" delka="12" cislo="29" rOsobni="110" rNakladni="110" xText="78" yText="46" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="71" y="52" typ="ZOBRAZTEXT" delka="12" cislo="32" rOsobni="110" rNakladni="110" xText="78" yText="55" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="49" delka="12" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="52" delka="12" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="72" y="57" tvar="9" smer="315" delka="29" rOsobni="110" rNakladni="110" text="Jirkov zast." fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="73" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="73" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="73" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="74" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="74" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="74" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="75" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="75" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="75" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="76" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="76" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="76" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="77" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="28" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="77" y="30" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="77" y="35" tvar="9" typ="ZAKLADNI" delka="20" rOsobni="40" rNakladni="40" text="Kyjice" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="77" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="77" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="77" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="78" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="78" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="78" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="79" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="28" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="79" y="30" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="79" y="42" tvar="9" typ="ZAKLADNI" delka="20" cislo="1" text="Dolní Rybník" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="79" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="79" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="79" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="80" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="80" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="80" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="81" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="28" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="81" y="30" tvar="21" delka="20" rOsobni="40" rNakladni="40" />
+    <policko x="81" y="40" tvar="9" typ="ZAKLADNI" delka="20" cislo="1" text="Odbočka" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="81" y="48" tvar="5" delka="20" cislo="1" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="81" y="49" delka="29" cislo="29" rOsobni="110" rNakladni="110" text="1/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="52" delka="29" cislo="32" rOsobni="110" rNakladni="110" text="2/JI" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="81" y="53" tvar="5" smer="180" delka="20" cislo="1" rOsobni="110" rNakladni="110" text="JI" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" tenke="True" />
+    <policko x="82" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="82" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="82" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="82" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="82" y="49" delka="35" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="82" y="52" delka="20" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="49" delka="35" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="83" y="52" delka="20" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="28" tvar="9" typ="ZAKLADNI" delka="20" rOsobni="40" rNakladni="40" text="RF" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="84" y="29" tvar="9" delka="20" rOsobni="40" rNakladni="40" text="AVF" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16711872" />
+    <policko x="84" y="49" delka="35" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="84" y="52" delka="20" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="14" delka="18" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="17" delka="18" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="20" delka="18" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="23" delka="17" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="46" tvar="16" delka="29" x1="70" y1="49" xText="70" yText="49" text="TS VR-DR 1TK" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="49" delka="35" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="52" delka="20" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="85" y="55" tvar="16" delka="29" rOsobni="110" rNakladni="110" x1="70" y1="52" xText="70" yText="52" text="TS VR-DR 2TK" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="14" delka="11" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="17" delka="11" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="20" delka="11" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="23" delka="12" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="49" delka="35" cislo="29" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="86" y="52" delka="20" cislo="32" rOsobni="110" rNakladni="110" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="87" y="14" delka="11" cislo="3" napeti="1" rOsobni="40" rNakladni="40" text="3/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="87" y="17" delka="11" cislo="1" napeti="1" rNakladni="120" text="1/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="87" y="20" delka="11" cislo="2" napeti="1" rNakladni="120" text="2/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="87" y="23" delka="12" cislo="4" napeti="1" rOsobni="40" rNakladni="40" text="4/KY" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="87" y="49" tvar="11" delka="35" cislo="29" rOsobni="110" rNakladni="110" />
+    <policko x="87" y="52" tvar="11" delka="20" cislo="32" rOsobni="110" rNakladni="110" />
+    <policko x="88" y="14" tvar="4" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="40" rNakladni="40" text="L3" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="88" y="17" tvar="4" stav="CERVENA" delka="0" cislo="20" napeti="1" rNakladni="120" text="L1" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="88" y="20" tvar="4" stav="CERVENA" delka="0" cislo="20" napeti="1" rNakladni="120" text="L2" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="88" y="23" tvar="4" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="40" rNakladni="40" text="L4" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="89" y="14" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="89" y="17" delka="23" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="89" y="20" delka="23" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="89" y="23" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="90" y="14" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="90" y="17" delka="23" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="90" y="20" delka="23" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="90" y="23" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="91" y="14" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="91" y="17" delka="23" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="91" y="20" delka="23" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="91" y="23" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="92" y="14" smer="315" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="92" y="15" smer="135" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="92" y="17" delka="23" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="92" y="20" delka="23" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="92" y="22" smer="225" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="92" y="23" smer="45" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="93" y="15" smer="315" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="93" y="16" smer="135" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="93" y="17" delka="23" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="93" y="20" delka="23" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="93" y="21" smer="225" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="93" y="22" smer="45" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="94" y="16" smer="315" delka="14" cislo="-33" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="94" y="17" tvar="3" typ="ROVNE" smer="180" stav="ROVNA" delka="10" cislo="-11" napeti="1" rNakladni="120" text="v19" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="94" y="20" tvar="2" typ="ROVNE" smer="180" stav="ROVNA" delka="10" cislo="-22" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" text="v21" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="94" y="21" smer="45" delka="14" cislo="-44" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="95" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="95" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="96" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="96" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="97" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="97" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="98" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="98" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="99" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="99" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="100" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="100" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="101" y="17" tvar="3" typ="ROVNE" stav="ROVNA" delka="10" cislo="-11" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="103" y1="20" text="v20/22" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="101" y="18" smer="135" delka="25" cislo="-11" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="101" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="102" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="102" y="18" smer="315" delka="25" cislo="-11" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="102" y="19" smer="135" delka="25" cislo="-22" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="102" y="20" delka="12" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="103" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="103" y="19" smer="315" delka="25" cislo="-22" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="103" y="20" tvar="3" typ="ROVNE" smer="180" stav="ROVNA" delka="20" cislo="-22" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="101" y1="17" text="v20/22" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="104" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="104" y="20" delka="10" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="105" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="105" y="20" delka="10" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="106" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="106" y="20" delka="10" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="107" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="107" y="20" delka="10" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="108" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="108" y="19" smer="225" delka="25" cislo="-22" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="108" y="20" tvar="2" typ="ROVNE" stav="ROVNA" delka="20" cislo="-22" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="110" y1="17" text="v23/24" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="109" y="17" delka="28" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="109" y="18" smer="225" delka="25" cislo="-11" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="109" y="19" smer="45" delka="25" cislo="-22" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="109" y="20" delka="20" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="110" y="17" tvar="2" typ="ROVNE" smer="180" stav="ROVNA" delka="20" cislo="-11" napeti="1" rNakladni="120" rDoOdbocky="40" rZOdbocky="40" x1="108" y1="20" text="v23/24" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="110" y="18" smer="45" delka="25" cislo="-11" napeti="1" rOsobni="40" rNakladni="40" />
+    <policko x="110" y="20" delka="20" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="111" y="17" delka="10" cislo="-11" napeti="1" rNakladni="120" />
+    <policko x="111" y="20" delka="20" cislo="-22" napeti="1" rNakladni="120" />
+    <policko x="112" y="17" tvar="10" smer="180" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se11" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="112" y="20" tvar="10" smer="180" delka="0" cislo="20" napeti="1" rNakladni="120" text="Se10" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="113" y="9" tvar="9" typ="ZAKLADNI" delka="20" text="Dolní Rybník" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="113" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="113" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="114" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="114" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="115" y="7" tvar="9" typ="ZAKLADNI" delka="20" text="Odbočka" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-4144960" />
+    <policko x="115" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="115" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="116" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="116" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="117" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="117" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="118" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="118" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="119" y="17" delka="40" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="119" y="20" delka="44" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="120" y="17" tvar="10" typ="OZNACNIK" delka="0" cislo="111" napeti="1" rNakladni="120" />
+    <policko x="120" y="20" tvar="10" typ="OZNACNIK" delka="0" cislo="222" napeti="1" rNakladni="120" />
+    <policko x="121" y="14" tvar="16" delka="20" cislo="20" x1="121" y1="17" xText="121" yText="17" text="1TK KY-VR" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="121" y="17" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="50" rNakladni="50" x1="48" y1="49" xText="48" yText="49" text="1S" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="121" y="20" tvar="4" smer="180" stav="CERVENA" delka="0" cislo="20" napeti="1" rOsobni="50" rNakladni="50" x1="48" y1="52" xText="48" yText="52" text="2S" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" mult="5" />
+    <policko x="121" y="23" tvar="16" delka="20" cislo="20" x1="121" y1="20" xText="121" yText="20" text="2TK KY-VR" fName="Courier New" fSize="12" fBold="True" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="122" y="17" typ="ZOBRAZCISLOKOLEJE" delka="192" cislo="23" napeti="1" rOsobni="50" rNakladni="50" xText="125" yText="12" text="/AB" fName="Arial" fSize="9" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="122" y="20" typ="ZOBRAZTEXT" delka="192" cislo="26" napeti="1" rOsobni="50" rNakladni="50" xText="125" yText="25" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="123" y="17" delka="192" cislo="23" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="123" y="20" delka="192" cislo="26" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="124" y="17" delka="192" cislo="23" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="124" y="20" delka="192" cislo="26" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="125" y="17" delka="192" cislo="23" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="125" y="20" delka="192" cislo="26" napeti="1" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="126" y="17" tvar="11" delka="192" cislo="23" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="126" y="20" tvar="11" delka="192" cislo="26" rOsobni="50" rNakladni="50" text="/AB" fName="Arial" fSize="10" fBold="False" fItalic="False" fUnderline="False" fBarva="-16776961" />
+    <policko x="159" y="52" tvar="11" delka="20" cislo="29" oblast="1" rOsobni="110" rNakladni="110" />
+    <policko x="159" y="56" tvar="11" delka="20" cislo="32" oblast="1" rOsobni="110" rNakladni="110" />
+    <policko x="160" y="52" typ="ZOBRAZTEXT" delka="29" rOsobni="110" rNakladni="110" xText="78" yText="46" />
+    <policko x="160" y="56" typ="ZOBRAZTEXT" delka="29" rOsobni="110" rNakladni="110" xText="78" yText="55" />
+    <policko x="161" y="49" tvar="16" typ="NEZOBRAZOVAT" smer="180" delka="29" cislo="99" oblast="-3" rOsobni="110" rNakladni="110" x1="161" y1="52" xText="161" yText="52" />
+    <policko x="161" y="52" tvar="4" typ="VSTUPVYSTUP" smer="180" stav="CERVENA" delka="0" cislo="99" oblast="-3" rOsobni="110" rNakladni="110" x1="70" y1="49" xText="161" yText="48" text="DR1" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-23296" mult="5" />
+    <policko x="161" y="56" tvar="4" typ="VSTUPVYSTUP" smer="180" stav="CERVENA" delka="0" cislo="99" oblast="-3" rOsobni="110" rNakladni="110" x1="70" y1="52" xText="161" yText="62" text="DR2" fName="Microsoft Sans Serif" fSize="8" fBold="False" fItalic="False" fUnderline="False" fBarva="-23296" mult="5" />
+    <policko x="161" y="59" tvar="16" typ="NEZOBRAZOVAT" smer="180" delka="29" cislo="99" oblast="-3" rOsobni="110" rNakladni="110" x1="161" y1="56" xText="161" yText="62" />
+  </policka>
+  <pozice>
+  </pozice>
+  <stanice />
+  <station>
+    <stanice>
+      <nadrazi zkratka="KY" celejmeno="Kyjice" />
+    </stanice>
+  </station>
+  <gvd section="GVD 2024" sect_desc="GVD 2024 (10/12/2023-14/12/2024)" gvd_ver="1.22" gvd_editor="STAG">
+    <trains>
+      <train cislo="66141" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="00:26" oznamenismeruprijezdu="Bílina" konci="O" smer="DR2" casodjezdu="00:32" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Chomutov" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="17" hmotnost="85" vykon="2040" maxv="100">
+          <vuz typ="130_CDC" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="1940" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="01:50" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="01:56" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Chomutov" kdyjede="1940" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="203" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="44" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="46420" typ="NEx" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="02:17" oznamenismeruprijezdu="Kolín seř.n." konci="O" smer="DR2" casodjezdu="02:21" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb st.hr." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="201" hmotnost="245" vykon="6400" maxv="100">
+          <vuz typ="193_CDC" obrid="2" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+          <vuz typ="Eas" />
+        </razeni>
+      </train>
+      <train cislo="86652" typ="Mn" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="02:42" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="02:48" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Bochov" kdyjede="1081" poznamka="">
+        <zastavky />
+        <razeni delka="274" hmotnost="409" vykon="1325" maxv="100">
+          <vuz typ="750_CDC" obrid="1" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Res" obrid="1" />
+          <vuz typ="Res" obrid="1" />
+          <vuz typ="Sggmrrs D" obrid="2" />
+          <vuz typ="Sggmrrs D" obrid="2" />
+          <vuz typ="Sggmrrs D" obrid="1" />
+          <vuz typ="Sggmrrs D" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1941" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="03:37" oznamenismeruprijezdu="Chomutov" konci="O" smer="TB1" casodjezdu="03:40" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="224" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="42" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+        </razeni>
+      </train>
+      <train cislo="74100" typ="Lv" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="03:44" oznamenismeruprijezdu="Chomutov seř.n." konci="O" smer="TB1" casodjezdu="03:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. odjezd" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="17" hmotnost="85" vykon="2040" maxv="100">
+          <vuz typ="130_SDKD" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="16601" typ="Os" jmeno="U16" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="04:00" oznamenismeruprijezdu="Kadaň" konci="O" smer="TB1" casodjezdu="04:03" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="67" vykon="410" maxv="120">
+          <vuz typ="628_RJ" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1943" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="04:37" oznamenismeruprijezdu="Kadaň" konci="O" smer="TB1" casodjezdu="04:40" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="1943" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="224" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+        </razeni>
+      </train>
+      <train cislo="6801" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="04:44" oznamenismeruprijezdu="Chomutov" konci="O" smer="TB1" casodjezdu="04:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="362_CD" obrid="28" />
+        </razeni>
+      </train>
+      <train cislo="74101" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="05:02" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="05:05" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Březno u Chomutova" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="16" hmotnost="85" vykon="3480" maxv="120">
+          <vuz typ="163_CDC" obrid="27" />
+        </razeni>
+      </train>
+      <train cislo="7088" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="05:08" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="05:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="603" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="05:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="05:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="4" />
+          <vuz typ="Interjet_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="1081" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="05:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="05:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="1081" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="620" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="05:36" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="05:39" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="12" />
+          <vuz typ="Interjet_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="6803" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="05:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="05:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="6800" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="06:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="06:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="362_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="605" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="06:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="06:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="149" hmotnost="300" vykon="6400" maxv="160">
+          <vuz typ="193_CD" obrid="28" />
+          <vuz typ="ABmz346_CD" obrid="2" />
+          <vuz typ="Bpee237_CD" obrid="7" />
+          <vuz typ="Bdmpee233_CD" obrid="5" />
+          <vuz typ="Bmz224_CD" obrid="1" />
+          <vuz typ="Bmz224_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1945" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="06:36" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="06:39" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="224" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdmtee265_CD" />
+        </razeni>
+      </train>
+      <train cislo="1098" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="06:39" oznamenismeruprijezdu="Blatno u Jesenice" konci="O" smer="TB1" casodjezdu="06:42" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="6805" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="06:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="06:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="6805" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="6802" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="07:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="07:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1947" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="07:12" oznamenismeruprijezdu="Klášterec n.Ohří" konci="O" smer="TB1" casodjezdu="07:15" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="91" hmotnost="200" vykon="3480" maxv="120">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="Bdmtee265_CD" />
+          <vuz typ="Bdt" obrid="1" />
+          <vuz typ="Bdt" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1083" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="07:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="07:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="618" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="07:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="07:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="618" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="4" />
+          <vuz typ="Interjet_CD" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="6807" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="07:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="07:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="60122" typ="Pn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="07:48" oznamenismeruprijezdu="Č.Budějovice seř.n." konci="O" smer="TB1" casodjezdu="07:52" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. příjezd" kdyjede="6+" poznamka="">
+        <zastavky />
+        <razeni delka="551" hmotnost="2158" vykon="3700" maxv="100">
+          <vuz typ="363.5_CDC" obrid="3" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Habbillns" smer="TB1|TB2" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6804" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="08:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="08:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="362_CD" obrid="28" />
+        </razeni>
+      </train>
+      <train cislo="607" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="08:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="08:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_RAILL" />
+          <vuz typ="Interjet_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1080" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="08:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="08:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="1942" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="08:38" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="08:44" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Chomutov" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="203" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="6809" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="08:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="08:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="16602" typ="Sv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="08:46" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="08:49" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="67" vykon="410" maxv="120">
+          <vuz typ="628_RJ" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="61400" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="08:52" oznamenismeruprijezdu="Ústí n.L.z.vnější n." konci="O" smer="DR2" casodjezdu="08:55" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Planá u Mariánských lázní" kdyjede="61400" poznamka="">
+        <zastavky />
+        <razeni delka="16" hmotnost="87" vykon="3480" maxv="120">
+          <vuz typ="363_CDC" obrid="8" />
+        </razeni>
+      </train>
+      <train cislo="67270" typ="Pn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="08:55" oznamenismeruprijezdu="Otrokovice" konci="O" smer="DR2" casodjezdu="09:00" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Počerady" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="311" hmotnost="1790" vykon="2040" maxv="90">
+          <vuz typ="123_CDC" obrid="5" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="6806" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="09:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="09:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1949" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="09:12" oznamenismeruprijezdu="Chomutov" konci="O" smer="TB1" casodjezdu="09:15" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="90" hmotnost="206" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="28" />
+          <vuz typ="B249_CD" obrid="4" />
+          <vuz typ="B249_CD" obrid="4" />
+          <vuz typ="B249_CD" obrid="4" />
+        </razeni>
+      </train>
+      <train cislo="1951" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="09:12" oznamenismeruprijezdu="Klášterecc n.Ohří" konci="O" smer="TB1" casodjezdu="09:15" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="90" hmotnost="204" vykon="3480" maxv="120">
+          <vuz typ="362_CD" obrid="6" />
+          <vuz typ="B249_CD" obrid="4" />
+          <vuz typ="Bdt279_CD" obrid="6" />
+          <vuz typ="Bdt279_CD" obrid="6" />
+        </razeni>
+      </train>
+      <train cislo="1953" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="09:12" oznamenismeruprijezdu="Klášterecc n.Ohří" konci="O" smer="TB1" casodjezdu="09:15" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Ústí n.L.hl.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="203" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="6" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="1085" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="09:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="09:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="616" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="09:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="09:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="28" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="6811" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="09:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="09:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="28" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="60121" typ="NEx" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="09:49" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="09:55" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Č.Budějovice seř.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="179" hmotnost="294" vykon="6000" maxv="100">
+          <vuz typ="388_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+          <vuz typ="Roos_CDC" />
+        </razeni>
+      </train>
+      <train cislo="6808" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="10:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="10:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="609" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="10:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="10:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="40" />
+          <vuz typ="Interjet_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6813" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="10:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="10:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="60125" typ="Pn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="10:51" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="10:55" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="184" hmotnost="312" vykon="3700" maxv="100">
+          <vuz typ="363.5_CDC" obrid="2" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" />
+          <vuz typ="Laekks-GEFCO A" smer="DR1|DR2" />
+        </razeni>
+      </train>
+      <train cislo="6810" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="11:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="11:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="362_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="66500" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="11:19" oznamenismeruprijezdu="Nové Sedlo u Lokte" konci="O" smer="TB1" casodjezdu="11:22" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Doly Bílina-UUL" kdyjede="6+" poznamka="">
+        <zastavky />
+        <razeni delka="32" hmotnost="176" vykon="7400" maxv="120">
+          <vuz typ="363.5_CDC" obrid="2" />
+          <vuz typ="363.5_CDC" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="614" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="11:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="11:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_RAILL" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="6815" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="11:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="11:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="6812" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="12:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="12:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="619" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="12:12" oznamenismeruprijezdu="Cheb" konci="O" smer="TB1" casodjezdu="12:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="4" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="611" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="12:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="12:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="151" hmotnost="320" vykon="6400" maxv="160">
+          <vuz typ="193_CD" obrid="4" />
+          <vuz typ="Bdmpee233_CD" obrid="5" />
+          <vuz typ="Bdmpee233_CD" obrid="5" />
+          <vuz typ="Bmz230_CD" obrid="1" />
+          <vuz typ="Bmz230_CD" obrid="1" />
+          <vuz typ="ABmz346_CD" obrid="4" />
+        </razeni>
+      </train>
+      <train cislo="1084" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="12:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="12:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="1944" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="12:38" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="12:44" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Klášterec n.Ohří" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="91" hmotnost="193" vykon="3480" maxv="120">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="Bdt" obrid="1" />
+          <vuz typ="Bdt" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="6817" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="12:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="12:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6814" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="13:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="13:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="362_CD" obrid="28" />
+        </razeni>
+      </train>
+      <train cislo="1089" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="13:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="13:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="612" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="13:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="13:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="40" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="61401" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="13:40" oznamenismeruprijezdu="Planá u Mariánských lázní" konci="O" smer="TB1" casodjezdu="13:45" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Hněvice seřaďovací nádraží" kdyjede="61400" poznamka="">
+        <zastavky />
+        <razeni delka="301" hmotnost="1288" vykon="3700" maxv="120">
+          <vuz typ="363.5_CDC" obrid="1" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+          <vuz typ="Sgnss K222" smer="TB1|TB2" obrid="29" />
+        </razeni>
+      </train>
+      <train cislo="6819" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="13:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="13:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="60126" typ="Pn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="13:49" oznamenismeruprijezdu="Nové Sedlo u Lokte" konci="O" smer="TB1" casodjezdu="13:54" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. příjezd" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="208" hmotnost="1195" vykon="3480" maxv="120">
+          <vuz typ="363_CDC" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="2" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Sggrrs" smer="TB1|TB2" obrid="1" />
+          <vuz typ="Zans" smer="TB1|TB2" obrid="40" />
+          <vuz typ="Zans" smer="TB1|TB2" obrid="66" />
+        </razeni>
+      </train>
+      <train cislo="6816" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="14:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="14:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="613" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="14:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="14:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="28" />
+          <vuz typ="Interjet_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1086" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="14:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="14:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="1946" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="14:38" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="14:44" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Klášterec n.Ohří" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="95" hmotnost="203" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="6" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+        </razeni>
+      </train>
+      <train cislo="6821" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="14:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="14:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="28" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6818" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="15:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="15:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1091" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="15:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="15:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6823" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="15:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="15:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="6820" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="16:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="16:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="362_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="615" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="16:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="16:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_RAILL" />
+          <vuz typ="Interjet_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1088" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="16:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="16:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="1948" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="16:38" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="16:44" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Klášterec n.Ohří" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="90" hmotnost="206" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="1" />
+          <vuz typ="B249_CD" obrid="4" />
+          <vuz typ="B249_CD" obrid="4" />
+          <vuz typ="B249_CD" obrid="4" />
+        </razeni>
+      </train>
+      <train cislo="610" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="16:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="16:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="4" />
+          <vuz typ="Interjet_CD" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="6825" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="16:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="16:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="6822" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="17:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="17:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1093" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="17:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="17:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Plzeň hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="608" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="17:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="17:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="28" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="6827" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="17:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="17:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="47300" typ="NEx" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="17:53" oznamenismeruprijezdu="Kolín seř.n." konci="O" smer="DR2" casodjezdu="17:57" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb st.hr." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="330" hmotnost="350" vykon="6000" maxv="120">
+          <vuz typ="388_CDC" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+        </razeni>
+      </train>
+      <train cislo="6824" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="18:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="18:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="362_CD" obrid="28" />
+        </razeni>
+      </train>
+      <train cislo="617" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="18:12" oznamenismeruprijezdu="Cheb" konci="O" smer="DR2" casodjezdu="18:15" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Praha hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_CD" obrid="40" />
+          <vuz typ="Interjet_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="74110" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="18:20" oznamenismeruprijezdu="Chomutov seř.n." konci="O" smer="TB1" casodjezdu="18:24" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Třebušice" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="13" hmotnost="64" vykon="883" maxv="90">
+          <vuz typ="742_CDC" obrid="7" />
+        </razeni>
+      </train>
+      <train cislo="1090" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="18:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="18:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="1950" typ="Sp" jmeno="U51" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="18:38" oznamenismeruprijezdu="Ústí n.L.hl.n." konci="O" smer="DR2" casodjezdu="18:44" naposun="0" konciposunem="0" cekatnavystup="0" oznamenismeruodjezdu="Klášterec n.Ohří" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="90" hmotnost="204" vykon="3480" maxv="120">
+          <vuz typ="362_CD" obrid="30" />
+          <vuz typ="B249_CD" obrid="3" />
+          <vuz typ="Bdt279_CD" obrid="7" />
+          <vuz typ="Bdt279_CD" obrid="7" />
+        </razeni>
+      </train>
+      <train cislo="6829" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="18:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="18:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="74111" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="18:56" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="19:00" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Chomutov seř.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="17" hmotnost="85" vykon="2040" maxv="90">
+          <vuz typ="123_CDC" obrid="3" />
+        </razeni>
+      </train>
+      <train cislo="6826" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="19:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="19:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1099" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="19:27" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="19:30" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Blatno u Jesenice" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="606" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="19:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="19:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="152" hmotnost="375" vykon="6400" maxv="200">
+          <vuz typ="193_RAILL" />
+          <vuz typ="Interjet_CD" />
+        </razeni>
+      </train>
+      <train cislo="6831" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="19:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="19:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="28" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="1" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6890" typ="Sv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="19:50" oznamenismeruprijezdu="Most" konci="O" smer="DR2" casodjezdu="19:53" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Chomutov" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6828" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="20:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="20:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="1092" typ="R" jmeno="R25 GWTR" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="20:31" oznamenismeruprijezdu="Plzeň hl.n." konci="O" smer="TB1" casodjezdu="20:34" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="-24., 25., 31. 12." poznamka="">
+        <zastavky />
+        <razeni delka="45" hmotnost="80" vykon="410" maxv="100">
+          <vuz typ="628_GWTR" />
+        </razeni>
+      </train>
+      <train cislo="6833" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="20:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="20:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="62623" typ="Lv" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="20:49" oznamenismeruprijezdu="Cheb" konci="O" smer="TB1" casodjezdu="20:54" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. příjezd" kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="260" hmotnost="428" vykon="3700" maxv="90">
+          <vuz typ="363.5_CDC" obrid="1" />
+          <vuz typ="Roos D_CDC" obrid="2" />
+          <vuz typ="Laekks-GEFCO A" />
+          <vuz typ="Res" obrid="1" />
+          <vuz typ="Res" obrid="2" />
+          <vuz typ="Res" obrid="1" />
+          <vuz typ="Res" obrid="1" />
+          <vuz typ="Eanos" obrid="1" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Res" obrid="4" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Eas-u S" />
+        </razeni>
+      </train>
+      <train cislo="6830" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="21:08" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="21:11" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="Bfhpvee295_CD" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="362_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="604" typ="R" jmeno="R15 Krušnohor" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="21:38" oznamenismeruprijezdu="Praha hl.n." konci="O" smer="DR2" casodjezdu="21:41" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Cheb" kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="151" hmotnost="324" vykon="6400" maxv="160">
+          <vuz typ="193_CD" obrid="40" />
+          <vuz typ="Bdmpee233_CD" obrid="1" />
+          <vuz typ="Bdmpee233_CD" obrid="1" />
+          <vuz typ="Bmz226_CD" obrid="4" />
+          <vuz typ="Bmz226_CD" obrid="4" />
+          <vuz typ="Ampz146_CD" obrid="4" />
+        </razeni>
+      </train>
+      <train cislo="6835" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="21:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="21:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Děčín hl.n." kdyjede="" poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" />
+        </razeni>
+      </train>
+      <train cislo="86659" typ="Mn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="21:49" oznamenismeruprijezdu="Chomutov seř.n." konci="O" smer="TB1" casodjezdu="21:53" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. odjezd" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="89" hmotnost="151" vykon="2040" maxv="100">
+          <vuz typ="130_CDC" obrid="2" />
+          <vuz typ="Laekks-GEFCO A" />
+          <vuz typ="Laekks-GEFCO P" />
+          <vuz typ="Laekks-GEFCO P" />
+        </razeni>
+      </train>
+      <train cislo="86655" typ="Mn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="22:14" oznamenismeruprijezdu="Chomutov seř.n." konci="O" smer="TB1" casodjezdu="22:19" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most nové n. příjezd" kdyjede="6+" poznamka="">
+        <zastavky />
+        <razeni delka="136" hmotnost="174" vykon="600" maxv="80">
+          <vuz typ="731" obrid="2" />
+          <vuz typ="Gags" obrid="1" />
+          <vuz typ="Gags" obrid="1" />
+          <vuz typ="Raj" />
+          <vuz typ="Raj" />
+          <vuz typ="Raj" />
+          <vuz typ="Sgnss P" obrid="15" />
+        </razeni>
+      </train>
+      <train cislo="6832" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="22:16" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="22:19" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="6837" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="DR1" casprijezdu="22:44" oznamenismeruprijezdu="Kadaň předm." konci="O" smer="TB1" casodjezdu="22:47" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Most" kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="93" hmotnost="205" vykon="3480" maxv="140">
+          <vuz typ="362_CD" obrid="1" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bdmtee275_CD" obrid="2" />
+          <vuz typ="Bfhpvee295_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="46499" typ="NEx" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="DR1" casprijezdu="22:51" oznamenismeruprijezdu="Cheb st.hr." konci="O" smer="TB1" casodjezdu="22:55" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kolín seř.n." kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="330" hmotnost="350" vykon="6000" maxv="120">
+          <vuz typ="388_CDC" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+          <vuz typ="Sggnss P" />
+        </razeni>
+      </train>
+      <train cislo="6846" typ="Os" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="1" vznika="P" smerprijezdu="TB2" casprijezdu="23:16" oznamenismeruprijezdu="Děčín hl.n." konci="O" smer="DR2" casodjezdu="23:19" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň předm." kdyjede="- 24.12., 31.12." poznamka="">
+        <zastavky />
+        <razeni delka="79" hmotnost="153" vykon="2040" maxv="160">
+          <vuz typ="640_CD" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="66501" typ="Pn" jmeno="" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="23:37" oznamenismeruprijezdu="Bílina" konci="O" smer="DR2" casodjezdu="23:42" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Kadaň-Prunéřov" kdyjede="X" poznamka="">
+        <zastavky />
+        <razeni delka="363" hmotnost="2100" vykon="3480" maxv="120">
+          <vuz typ="163_CDC" obrid="23" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+          <vuz typ="Sggrrs" smer="DR1|DR2" obrid="1" />
+        </razeni>
+      </train>
+      <train cislo="86654" typ="Mn" jmeno="U1" jednotka="0" vjsunuty="0" zastavuje="0" vznika="P" smerprijezdu="TB2" casprijezdu="23:56" oznamenismeruprijezdu="Most nové n. odjezd" konci="O" smer="DR2" casodjezdu="00:01" naposun="0" konciposunem="0" cekatnavystup="1" oznamenismeruodjezdu="Chomutov seř.n." kdyjede="6+" poznamka="">
+        <zastavky />
+        <razeni delka="111" hmotnost="216" vykon="600" maxv="80">
+          <vuz typ="731" obrid="2" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Eas-u S" />
+          <vuz typ="Zans" obrid="40" />
+          <vuz typ="Zans" obrid="40" />
+          <vuz typ="Zans" obrid="40" />
+          <vuz typ="Res" obrid="5" />
+        </razeni>
+      </train>
+    </trains>
+    <dates>
+      <date name="1940">
+        <stop at="1.1." />
+        <stop at="25.12." />
+        <stop at=" 26.12." />
+      </date>
+      <date name="X">
+        <run at="X" />
+      </date>
+      <date name="1943">
+        <run at="+" />
+        <run at="6" />
+        <stop at="25.12." />
+        <stop at="26.12." />
+        <stop at="1.1." />
+      </date>
+      <date name="- 24.12., 31.12.">
+        <stop at="24.12." />
+        <stop at="31.12." />
+      </date>
+      <date name="618">
+        <stop at="1.1." />
+        <stop at="25.12." />
+      </date>
+      <date name="1081">
+        <run at="X" />
+        <run at="6" />
+        <run at="29.3." />
+        <run at=" 1.5." />
+        <run at=" 8.5." />
+        <run at=" 5.7." />
+        <stop at="30.3." />
+        <stop at=" 6.7." />
+      </date>
+      <date name="-24., 25., 31. 12.">
+        <stop at="24.12." />
+        <stop at="31.12." />
+        <stop at="25.12." />
+      </date>
+      <date name="1006800">
+        <stop at="X" />
+      </date>
+      <date name="6805">
+        <run at="+" />
+        <run at="6" />
+      </date>
+      <date name="61400">
+        <run at="1" />
+        <run at="3" />
+        <run at="5" />
+        <run at="6" />
+        <stop at="24.12." />
+        <stop at="31.12." />
+      </date>
+      <date name="62623">
+        <run at="1" />
+        <run at="2" />
+        <run at="4" />
+        <run at="5" />
+        <run at="6" />
+        <stop at="24.12." />
+        <stop at="31.12." />
+        <stop at="1.1." />
+      </date>
+      <date name="6+">
+        <run at="+" />
+        <run at="6" />
+      </date>
+    </dates>
+    <goodstrain init_frequency="0" />
+    <nahsoupravy />
+    <vozy>
+      <vuz id="130_CDC" typ="hnaci" podtrida="El. stejnosměrné" popis="Lokomotiva řady 130 je univerzální jednosystémová elektrická lokomotiva přezdívaná „hrbatá“, nebo též „velbloud“ a to podle skříně ventilátorů na střeše.Byla vyráběna Škodou v roce 1977 (tovární typ 79E)." hmotnost="85" delka="17,21" vykon="2040" sila="147" max_rych_hnaci="100" max_rych="100" elektro="1" vyrobce="Škoda Plzeň, 1977" autor="" img="1464" imgex="4" />
+      <vuz id="362_CD" typ="hnaci" podtrida="El. vícesystémové" popis="vícesystémová el. lokomotiva řady 362 (tovární označení 69Er)" hmotnost="86" delka="16" vykon="3480" sila="258" max_rych_hnaci="140" max_rych="140" elektro="3" vyrobce="Škoda Plzeň (dnes Škoda Transportation a.s.), rok výroby: 1980 (prototyp), 1984 - 1990" autor="" img="1431" imgex="50" />
+      <vuz id="Bdmtee275_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Velkoprostorový vůz 2. třídy s oddílovým prostorem" hmotnost="39" delka="26,4" osob="96" max_rych="160" elektro="0" vyrobce="Waggonbau Bautzen (1989-1990)" autor="" img="1022" imgex="3" />
+      <vuz id="193_CDC" typ="hnaci" podtrida="El. vícesystémové" popis="Siemens Vectron je třída modulárních víceúčelových lokomotiv firmy Siemens Mobility vyráběných v německém Mnichově. Je zamýšlena jako nástupce úspěšné řady EuroSprinter." hmotnost="89" delka="18,98" vykon="6400" sila="300" max_rych_hnaci="160" max_rych="160" elektro="27" vyrobce="Siemens AG, od 2020" autor="" img="1806" imgex="7" />
+      <vuz id="Eas" typ="vuz" podtrida="Nákladní vozy" popis="Nákladní otevřený vůz, prázdný (kvůli Staničáři snížena rychlost na 100 km/h)" hmotnost="12" delka="14" typ_nakladu="ostatni" naklad="30" max_rych="100" elektro="0" vyrobce="" autor="puvodni" img="378" imgex="2" />
+      <vuz id="750_CDC" typ="hnaci" podtrida="Dieselové lokomotivy" popis="'Brejlovec' - dieselelektrická lokomotiva" hmotnost="74" delka="16" vykon="1325" sila="215" max_rych_hnaci="100" max_rych="100" elektro="0" vyrobce="ČKD Praha (1968-1977)" autor="puvodni" img="820" imgex="2" />
+      <vuz id="Res" typ="vuz" podtrida="Nákladní vozy plošinové" popis="Vuz na kusové zboží" hmotnost="25" delka="20" typ_nakladu="kusové zboží" naklad="55" max_rych="120" elektro="0" vyrobce="" autor="puvodni" img="27" imgex="11" />
+      <vuz id="Sggmrrs D" typ="vuz" podtrida="Nákladní vozy Intermodiální" popis="Innofreight GigaWood Sggmrrs SGW 90ft + 40 Stanchions" hmotnost="40" delka="29,61" typ_nakladu="dřevo" naklad="140" max_rych="120" elektro="0" vyrobce="INNOFREIGHT Solutions GmbH 2018" autor="" img="1779" imgex="4" />
+      <vuz id="Bdmtee265_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Velkoprostorový vůz 2. třídy (Modernizace vozů Bdmtee281 - dosazení elektronického informačního systému, vakuové WC, dosazení nových sedadel, vybudování prostoru pro vlakovou četu, uvedení vozu do korporátního stylu, dosazení háků na kola,...)" hmotnost="46" delka="26,4" osob="82" typ_nakladu="Kola" naklad="6" max_rych="160" elektro="0" vyrobce="Pars nova, pro ČD 2011 - ..." autor="" img="1167" />
+      <vuz id="130_SDKD" typ="hnaci" podtrida="El. stejnosměrné" popis="Lokomotiva řady 130 je univerzální jednosystémová elektrická lokomotiva přezdívaná „hrbatá“, nebo též „velbloud“ a to podle skříně ventilátorů na střeše.Byla vyráběna Škodou v roce 1977 (tovární typ 79E)." hmotnost="85" delka="17,21" vykon="2040" sila="147" max_rych_hnaci="100" max_rych="100" elektro="1" vyrobce="Škoda Plzeň, 1977" autor="" img="1465" imgex="3" />
+      <vuz id="628_RJ" typ="hnaci" podtrida="Motorové jednotky" popis="" hmotnost="67" delka="45" vykon="410" sila="0" max_rych_hnaci="120" osob="120" max_rych="120" elektro="0" vyrobce="" autor="" img="1511" imgex="1" />
+      <vuz id="Bfhpvee295_CD" typ="hnaci" podtrida="Řídící vozy" popis="'Sysel' - řídící vůz 2. třídy, klimatizace, zásuvky, ex Bdt" hmotnost="41" delka="24,5" vykon="0" sila="0" max_rych_hnaci="140" osob="72" typ_nakladu="Kola" naklad="8" max_rych="140" elektro="0" vyrobce="reko PARS Nova Šumperk (2006-2009)" autor="" img="1028" imgex="3" />
+      <vuz id="163_CDC" typ="hnaci" podtrida="El. stejnosměrné" popis="Lokomotiva řady 163 je univerzální traťová lokomotiva pro stejnosměrnou napájecí soustavu 3 kV vyráběná v letech 1984–1986 (tovární označení 71E) a 1991–1992 (99E) plzeňskou firmou Škoda a společností ČKD polovodiče." hmotnost="85" delka="16" vykon="3480" sila="285" max_rych_hnaci="120" max_rych="120" elektro="1" vyrobce="Škoda Plzeň, 1984–1986" autor="" img="1468" imgex="34" />
+      <vuz id="640_CD" typ="hnaci" podtrida="El. jednotky vícesystémové" popis="'RegioPanter' - elektrická vícesystémová jednotka pro regionální provoz" hmotnost="153" delka="79" vykon="2040" sila="180" max_rych_hnaci="160" osob="241" typ_nakladu="Kola" naklad="10" max_rych="160" elektro="3" vyrobce="Škoda Vagonka a. s. (2011-2014)" autor="" img="1116" imgex="4" />
+      <vuz id="193_CD" typ="hnaci" podtrida="El. vícesystémové" popis="Siemens Vectron je třída modulárních víceúčelových lokomotiv firmy Siemens Mobility vyráběných v německém Mnichově. Je zamýšlena jako nástupce úspěšné řady EuroSprinter." hmotnost="85" delka="18,98" vykon="6400" sila="300" max_rych_hnaci="200" max_rych="200" elektro="19" vyrobce="Siemens AG, od 2010" autor="" img="1545" imgex="51" />
+      <vuz id="Interjet_CD" typ="vuz" podtrida="Ucelená souprava CD" popis="Souprava se skládá z jednoho vozu 1. třídy, jednoho vozu 2. třídy s prostorem pro cestující na invalidním vozíku a pro cestující s dětmi, dvou vozů 2. třídy bez zvláštní výbavy a jednoho vozu 2. třídy s prostorem pro přepravu jízdních kol." hmotnost="290" delka="133" osob="333" typ_nakladu="Kola" naklad="8" max_rych="200" elektro="0" vyrobce="Siemens + Škoda, pro ČD 2019 – 2021, UIC-Z" autor="" img="1672" imgex="3" />
+      <vuz id="628_GWTR" typ="hnaci" podtrida="Motorové jednotky" popis="ex DB 628.2" hmotnost="80" delka="45" vykon="410" sila="0" max_rych_hnaci="100" osob="128" typ_nakladu="Kola" naklad="4" max_rych="100" elektro="0" vyrobce="vyráběná v letech 1986–1996 v Německu ve vagónkách Duewag a Waggon Union." autor="" img="1342" imgex="7" />
+      <vuz id="ABmz346_CD" typ="vuz" podtrida="Osobní vozy kombinované" popis="Oddílový vůz 1. a 2. třídy, klimatizace, zásuvky" hmotnost="43" delka="26,4" osob="60" max_rych="200" elektro="0" vyrobce="SGP Simmering (1978-1979), reko (2001-2009), pro ČD odkoupeno v roce 2014 celkem 12ks" autor="" img="1226" imgex="8" />
+      <vuz id="Bpee237_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Velkoprostorový vůz 2. třídy, klimatizace, zásuvky, ex Bpee247, 242, 239" hmotnost="27" delka="24,5" osob="78" max_rych="160" elektro="0" vyrobce="MOVO Plzeň, DVJ Dunakeszi (1996-1997), reko ŽOS Trnava (2011)" autor="" img="1008" imgex="10" />
+      <vuz id="Bdmpee233_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Velkoprostorový vůz 2. třídy, klimatizace, zásuvky, Wi-Fi, ex Bmee248" hmotnost="43" delka="26,4" osob="80" typ_nakladu="Kola" naklad="4" max_rych="160" elektro="0" vyrobce="Waggonbau Bautzen (1986-1987), reko PARS Nova Šumperk (2013-2014)" autor="" img="1120" imgex="7" />
+      <vuz id="Bmz224_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Úprava již modernizovaných vozů Bmz232 od ÖBB – sedadla byla přečalouněna v korporátním stylu, vůz obdržel novou podlahu, elektronický informační systém, více zásuvek 230V + USB zásuvky, WiFi, nové CZE, úprava jednoho oddílu pro minibar, ..." hmotnost="51" delka="26,4" osob="60" max_rych="200" elektro="0" vyrobce="SGP Graz 1976 – 1978 ; DPOV Nymburk, modernizace převzatých vozů od ÖBB, pro ČD 2017-2019" autor="" img="1582" imgex="3" />
+      <vuz id="Bdt" typ="vuz" podtrida="Osobní 2. tř." popis="osobní vůz 2. třídy, 2 oddíly" hmotnost="34" delka="24,5" osob="88" max_rych="120" elektro="0" vyrobce="Vagónka Studénka 1990-1992" autor="puvodni" img="439" imgex="1" />
+      <vuz id="363.5_CDC" typ="hnaci" podtrida="El. vícesystémové" popis="Vícesystémová elektrická lokomotiva 363.5 vznikla rekonstrukcí stejnosměrných lokomotiv řady 163 pro společnost ČD Cargo. Nákladní dopravce si ji objednal za účelem zvýšení počtu lokomotiv na oba napájecí systémy a také pro dopravu vlaků v zahraničí." hmotnost="88" delka="16" vykon="3700" sila="300" max_rych_hnaci="120" max_rych="120" elektro="3" vyrobce="Škoda Transportation, Pars nova, 2010–2013" autor="" img="1498" imgex="3" />
+      <vuz id="Habbillns" typ="vuz" podtrida="Nákladní vozy uzavřené" popis="Vuz na kusové zboží" hmotnost="30" delka="23,26" typ_nakladu="kusové zboží" naklad="60" max_rych="100" elektro="0" vyrobce="" autor="puvodni" img="70" imgex="9" />
+      <vuz id="193_RAILL" typ="hnaci" podtrida="El. vícesystémové" popis="Siemens Vectron je třída modulárních víceúčelových lokomotiv firmy Siemens Mobility" hmotnost="85" delka="18,98" vykon="6400" sila="300" max_rych_hnaci="200" max_rych="200" elektro="19" vyrobce="Siemens AG, od 2010" autor="" img="1697" imgex="3" />
+      <vuz id="363_CDC" typ="hnaci" podtrida="El. vícesystémové" popis="Lokomotiva řady 363 (do roku 1987 řada ES 499.1) je nejrozšířenější československá dvousystémová elektrická lokomotiva, po rozdělení federace používaná v obou jejích nástupnických zemích. V obou zemích je pro ni používána přezdívka „eso“." hmotnost="87" delka="16" vykon="3480" sila="300" max_rych_hnaci="120" max_rych="120" elektro="3" vyrobce="Škoda Plzeň, 1980, 1984–1990" autor="" img="1499" imgex="19" />
+      <vuz id="123_CDC" typ="hnaci" podtrida="El. stejnosměrné" popis="Lokomotiva řady 123 je elektrická lokomotiva určená pro nákladní dopravu. Vyráběla ji v roce 1971 plzeňská firma Škoda (typové označení Škoda 57E) pro Československé státní dráhy. Patří mezi československé lokomotivy tzv. I. generace." hmotnost="85" delka="17" vykon="2040" sila="224" max_rych_hnaci="90" max_rych="90" elektro="1" vyrobce="Škoda Plzeň, 1971" autor="" img="1455" imgex="6" />
+      <vuz id="Sggrrs" typ="vuz" podtrida="Nákladní vozy Intermodiální" popis="Vůz je určen pro přepravu velkých kontejnerů (velikosti 13´, 20´, 30´, 40´).Vůz vhodn pro přepravu sypkého materiálu (uhlí,písek,štěpka,štěrk)." hmotnost="35" delka="26,71" typ_nakladu="sypké hmoty" naklad="120" max_rych="120" elektro="0" vyrobce="neznámí" autor="" img="1565" imgex="5" />
+      <vuz id="B249_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Oddílový vůz 2. třídy" hmotnost="40" delka="24,5" osob="80" max_rych="140" elektro="0" vyrobce="Waggonbau Bautzen (1974-1985)" autor="puvodni" img="727" imgex="5" />
+      <vuz id="Bdt279_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Velkoprostorový vůz 2. třídy" hmotnost="39" delka="24,5" osob="88" typ_nakladu="Kola" naklad="4" max_rych="120" elektro="0" vyrobce="Vagónka Studénka (1986-1987)" autor="puvodni" img="747" imgex="7" />
+      <vuz id="388_CDC" typ="hnaci" podtrida="El. vícesystémové" popis="Traxx MS3 společnosti Bombardier Transportation" hmotnost="86" delka="18,9" vykon="6000" sila="320" max_rych_hnaci="140" max_rych="140" elektro="27" vyrobce="Bombardier 2019" autor="" img="1654" imgex="7" />
+      <vuz id="Roos_CDC" typ="vuz" podtrida="Nákladní vozy plošinové" popis="Čtyřnápravový plošinový vůz s pevnými čelními stěnami a vysokými klanicemi" hmotnost="26" delka="20" typ_nakladu="dřevo" naklad="0" max_rych="100" elektro="0" vyrobce="Modernizace vozu Res pro ČD Cargo, 2009" autor="puvodni" img="902" />
+      <vuz id="Laekks-GEFCO A" typ="vuz" podtrida="Nákladní vozy speciální" popis="ložený vůz k přepravě osobních automobilů, s horní a dolní plošinou" hmotnost="22" delka="24" typ_nakladu="automobily" naklad="10" max_rych="100" elektro="0" vyrobce="" autor="" img="1253" imgex="1" />
+      <vuz id="Bmz230_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Modernizace vozů Bmz235.Původně Bmz 61 81 21-91.0 .V roce 2014 bylo odkoupeno 24 vozů, část vozů byla postupně zařazena do provozu v původním stavu." hmotnost="53" delka="26,4" osob="66" max_rych="200" elektro="0" vyrobce="SGP Simmering, 1976 - 1982, převzaté vozy od ÖBB, UIC - Z2,Pars nova, Šumperk (2016)" autor="" img="1329" imgex="1" />
+      <vuz id="Sgnss K222" typ="vuz" podtrida="Nákladní vozy plošinové" popis="kontejnerový vůz ložený 20´+20´+20´ kontejnery" hmotnost="20" delka="19" typ_nakladu="kontejnery" naklad="60" max_rych="120" elektro="0" vyrobce="" autor="" img="1257" imgex="31" />
+      <vuz id="Zans" typ="vuz" podtrida="Nákladní vozy cisternové" popis="Čtyřnápravový cisternový vůz" hmotnost="25" delka="16" typ_nakladu="tekuté hmoty" naklad="64" max_rych="120" elektro="0" vyrobce="LOSTR a.s." autor="" img="989" imgex="78" />
+      <vuz id="Sggnss P" typ="vuz" podtrida="Nákladní vozy plošinové" popis="4n plošinový vůz pro kontejnery" hmotnost="22" delka="25,94" max_rych="120" elektro="0" vyrobce="Tatravagónka Poprad, a.s., 2003" autor="" img="1744" imgex="11" />
+      <vuz id="742_CDC" typ="hnaci" podtrida="Dieselové lokomotivy" popis="'Kocour' - dieselektrická lokomotiva" hmotnost="64" delka="13" vykon="883" sila="192" max_rych_hnaci="90" max_rych="90" elektro="0" vyrobce="ČKD Praha (1977-1986)" autor="puvodni" img="823" imgex="8" />
+      <vuz id="Roos D_CDC" typ="vuz" podtrida="Nákladní vozy plošinové" popis="Čtyřnápravový plošinový vůz s pevnými čelními stěnami a vysokými klanicemi" hmotnost="26" delka="20" typ_nakladu="dřevo" naklad="55" max_rych="100" elektro="0" vyrobce="Modernizace vozu Res pro ČD Cargo, 2009" autor="" img="982" imgex="2" />
+      <vuz id="Eanos" typ="vuz" podtrida="Nákladní vozy otevřené" popis="Vůz na sypké hmoty s plachtou" hmotnost="23" delka="15,74" typ_nakladu="sypké hmoty" naklad="56" max_rych="120" elektro="0" vyrobce="" autor="puvodni" img="108" imgex="16" />
+      <vuz id="Eas-u S" typ="vuz" podtrida="Nákladní vozy otevřené" popis="Vůz na sypké hmoty" hmotnost="24" delka="14" typ_nakladu="šrot" naklad="56" max_rych="90" elektro="0" vyrobce="" autor="puvodni" img="110" />
+      <vuz id="Bmz226_CD" typ="vuz" podtrida="Osobní 2. tř." popis="Úpravy a modernizace ojetých vozů od dopravce ÖBB , 2017" hmotnost="53" delka="26,4" osob="66" max_rych="200" elektro="0" vyrobce="Úpravy a modernizace ojetých vozů od dopravce ÖBB , 2017" autor="" img="1339" imgex="5" />
+      <vuz id="Ampz146_CD" typ="vuz" podtrida="Osobní 1. tř." popis="Velkoprostorový vůz 1. třídy, klimatizace, zásuvky" hmotnost="47" delka="26,4" osob="58" max_rych="200" elektro="0" vyrobce="SGP Siemens, MSV Studénka (1998-1999), reko (2009-2010)" autor="" img="1118" imgex="7" />
+      <vuz id="Laekks-GEFCO P" typ="vuz" podtrida="Nákladní vozy speciální" popis="prázdný vůz k přepravě osobních automobilů, s horní a dolní plošinou" hmotnost="22" delka="24" typ_nakladu="automobily" naklad="0" max_rych="120" elektro="0" vyrobce="" autor="" img="1252" />
+      <vuz id="731" typ="hnaci" podtrida="Dieselové lokomotivy" popis="Dieselelektrická lokomotiva" hmotnost="68" delka="15" vykon="600" sila="205" max_rych_hnaci="80" max_rych="80" elektro="0" vyrobce="ČKD Praha (1990)" autor="puvodni" img="240" imgex="2" />
+      <vuz id="Gags" typ="vuz" podtrida="Nákladní vozy uzavřené" popis="Vuz na kusové zboží" hmotnost="25" delka="16,52" typ_nakladu="kusové zboží" naklad="38" max_rych="120" elektro="0" vyrobce="" autor="puvodni" img="77" imgex="2" />
+      <vuz id="Raj" typ="vuz" podtrida="Nákladní vozy" popis="Vuz na sypke hmoty" hmotnost="12" delka="23" typ_nakladu="sypké hmoty" naklad="30" max_rych="100" elektro="0" vyrobce="" autor="puvodni" img="322" imgex="3" />
+      <vuz id="Sgnss P" typ="vuz" podtrida="Nákladní vozy plošinové" popis="kontejnerový vůz" hmotnost="20" delka="19" max_rych="120" elektro="0" vyrobce="" autor="puvodni" img="489" imgex="19" />
+    </vozy>
+  </gvd>
+</root>
